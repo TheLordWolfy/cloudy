@@ -1,6 +1,6 @@
 # Cloudy Discord Bot
 
-![CloudyLogo](logo.png)
+![CloudyLogo](cloudy.png)
 
 - [Invite Cloudy](https://discord.com/oauth2/authorize?client_id=1130917657676353557&scope=bot&permissions=8)
 - [Support Server](https://discord.gg/8FFjEVCP)
